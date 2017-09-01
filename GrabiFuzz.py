@@ -1,4 +1,4 @@
-#python 2.7
+#python 3.5
 #usage: sysargv is number of sessions to fuzz 
 
 import http.client
